@@ -8,7 +8,7 @@ The **lectures** will follow a hybrid flipped classroom structure: we will give 
 
 The **coding exercises** will be done in groups, the idea is that you work autonomously on them and ask us if you have questions. 
 You're welcome to meet before the exercise class to work through the exercises with your group colleagues or, if you don't have the time to finish them during the session, to finish them afterwards. During the first lecture we will detail the role of the exercises in the exam.
-We will have 4 groups named: Drosophila, C Elegans, Giant Squid and Rattus norvegicus. We've tried to have balanced groups regarding coding skills. The groups members can seen in Absalon.
+We will have 4 groups named: Drosophila 🪰, C Elegans 🪱, Giant Squid 🦑 and Rattus norvegicus 🐀. We've tried to have balanced groups regarding coding skills. The groups members can seen in Absalon.
 
 
 
@@ -73,7 +73,7 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">3</td>
     <td class="tg-yw4l">Simulation and data analysis</td>
-    <td class="tg-yw4l">Simulate populations of biological neurons and visualization and analyses obtained data + PCA)</td>
+    <td class="tg-yw4l">Simulate populations of biological neurons and visualization and analyses obtained data + PCA</td>
     <td class="tg-yw4l">TBA
     <!-- <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
