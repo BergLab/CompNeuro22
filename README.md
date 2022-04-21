@@ -150,3 +150,4 @@ Here you can find the table of content of each week and its corresponding exerci
 <a href="https://brian2.readthedocs.io/en/stable/user/index.html  ">Brian simulator documentation  </a>  
 <a href=" https://www.youtube.com/watch?v=oa6rvUJlg7o   ">An animation of how action of how action potential at a cellular level  </a>   
 <a href=" https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7     ">Python for beginners playlist  </a>    
+<a href="[ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)     ">Making sense of principal component analysis, eigenvectors & eigenvalues  </a>    
