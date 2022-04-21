@@ -47,7 +47,7 @@ Here you can find the table of content of each week and its corresponding exerci
   </tr>
   
   <tr>
-    <td class="tg-yw4l">1</td>
+    <td class="tg-yw4l">1 (19)</td>
     <td class="tg-yw4l">Linear algebra and intro python</td>
     <td class="tg-yw4l">Practice basic notions of linear algebra, manipulate arrays, compute statistics, load and plot data</td>
     <td class="tg-yw4l">TBA
@@ -59,7 +59,7 @@ Here you can find the table of content of each week and its corresponding exerci
   </tr>
 
   <tr>
-    <td class="tg-yw4l">2</td>
+    <td class="tg-yw4l">2 (20)</td>
     <td class="tg-yw4l">Classical neuronal models</td>
     <td class="tg-yw4l">Modelling systems and solving basic differential equations</td>
     <td class="tg-yw4l">TBA
@@ -71,7 +71,7 @@ Here you can find the table of content of each week and its corresponding exerci
   </tr>
 
   <tr>
-    <td class="tg-yw4l">3</td>
+    <td class="tg-yw4l">3 (21)</td>
     <td class="tg-yw4l">Simulation of neural population</td>
     <td class="tg-yw4l">Simulate populations of biological neurons and visualization resulting data</td>
     <td class="tg-yw4l">TBA
@@ -88,7 +88,7 @@ Here you can find the table of content of each week and its corresponding exerci
 
 
   <tr>
-    <td class="tg-yw4l">4</td>
+    <td class="tg-yw4l">4 (22)</td>
     <td class="tg-yw4l">Machine learning and data analysis</td>
     <td class="tg-yw4l">Data exploration and using scikit-learn library to solve supervised learning problem + PCA</td>
     <td class="tg-yw4l">TBA
@@ -104,7 +104,7 @@ Here you can find the table of content of each week and its corresponding exerci
   </tr>
 
   <tr>
-    <td class="tg-yw4l">5</td>
+    <td class="tg-yw4l">5 (23)</td>
     <td class="tg-yw4l">Network analysis</td>
     <td class="tg-yw4l">Using NetworkX library to simulate and study networks</td>
     <td class="tg-yw4l">TBA
@@ -121,7 +121,7 @@ Here you can find the table of content of each week and its corresponding exerci
 
 
   <tr>
-    <td class="tg-yw4l">6</td>
+    <td class="tg-yw4l">6 (24)</td>
     <td class="tg-yw4l">Invited talks</td>
     <td class="tg-yw4l">Relax and enjoy</td>
     <td class="tg-yw4l">N/A
