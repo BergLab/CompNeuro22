@@ -90,30 +90,27 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">4(22)</td>
     <td class="tg-yw4l">Machine learning and data analysis</td>
-    <td class="tg-yw4l">Data exploration and using scikit-learn library to solve supervised learning problem + PCA</td>
+    <td class="tg-yw4l">Data exploration and using scikit-learn library to solve supervised learning problem (deep learning + classical ML) + PCA</td>
     <td class="tg-yw4l">TBA
     <!-- <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
     </a><br>
      <a href="https://github.com/BergLab/CompNeuro22/notebooks/week3/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = ''></a></td> -->
-    <td class="tg-yw4l">TBA
-    <!-- <a href="https://www.youtube.com/playlist?list=PLkBQOLLbi18MCEdPJQ7gdnqP-Z0Tkmcjy">NMA: Biological Neuron Models</a> (skip Q&As)
-    </a><br>
-    Chapters from Sterratt: 2.1, 2.2, 7.1, 7.2, 8.2    
-    </td> -->
+    <td class="tg-yw4l">
+    <a href="https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Artificial Neural Networks</a> (videos 1 and 2)
   </tr>
 
   <tr>
     <td class="tg-yw4l">5(23)</td>
     <td class="tg-yw4l">Network analysis</td>
-    <td class="tg-yw4l">Using NetworkX library to simulate and study networks</td>
+    <td class="tg-yw4l">Using NetworkX (+nxviz/PyGraphviz) library to simulate, study and visualize graphs  </td>
     <td class="tg-yw4l">TBA
     <!-- <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
     </a><br>
      <a href="https://github.com/BergLab/CompNeuro22/notebooks/week3/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = ''></a></td> -->
     <td class="tg-yw4l">TBA
-    <!-- <a href="https://www.youtube.com/playlist?list=PLkBQOLLbi18MCEdPJQ7gdnqP-Z0Tkmcjy">NMA: Biological Neuron Models</a> (skip Q&As)
+    <!-- <a href="https://www.youtube.com/watch?v=ezL7j4nSXpQ">Complex network analysis with NetworkX
     </a><br>
     Chapters from Sterratt: 2.1, 2.2, 7.1, 7.2, 8.2    
     </td> -->
