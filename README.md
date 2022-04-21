@@ -43,7 +43,7 @@ Here you can find the table of content of each week and its corresponding exerci
     <th class="tg-yw4l"><b>Topic</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
-    <th class="tg-yw4l"><b>Supporting material (watch/read/do before class)</b></th>
+    <th class="tg-yw4l"><b>Supporting material (watch/read before class)</b></th>
   </tr>
   
   <tr>
