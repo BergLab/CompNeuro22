@@ -146,7 +146,7 @@ Here you can find the table of content of each week and its corresponding exerci
 
 ## Other resources
 
-A summary of how to translate code between Matlab, Python and Julia: https://cheatsheets.quantecon.org/
-Brian simulator documentation: https://brian2.readthedocs.io/en/stable/user/index.html
-An animation of how action of how action potential at a cellular level: https://www.youtube.com/watch?v=oa6rvUJlg7o
-Python for beginners playlist: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
+A summary of how to translate code between Matlab, Python and Julia: https://cheatsheets.quantecon.org/  
+Brian simulator documentation: https://brian2.readthedocs.io/en/stable/user/index.html  
+An animation of how action of how action potential at a cellular level: https://www.youtube.com/watch?v=oa6rvUJlg7o  
+Python for beginners playlist: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7  
