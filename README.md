@@ -73,7 +73,7 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">3</td>
     <td class="tg-yw4l">Simulation of neural population</td>
-    <td class="tg-yw4l">Simulate populations of biological neurons and visualization and analyses obtained data</td>
+    <td class="tg-yw4l">Simulate populations of biological neurons and visualization resulting data</td>
     <td class="tg-yw4l">TBA
     <!-- <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
