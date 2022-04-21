@@ -137,6 +137,7 @@ Here you can find the table of content of each week and its corresponding exerci
   </tr>
 
 <!-- https://www.kaggle.com/learn/intro-to-machine-learning -->
+<!-- https://scikit-learn.org/stable/tutorial/index.html -->
 <!-- https://github.com/AppliedMachineLearningNBI/AppliedML2021 -->
 <!-- https://www.nbi.dk/~petersen/Teaching/AppliedMachineLearning2021.html -->
 
