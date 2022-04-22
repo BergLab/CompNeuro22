@@ -26,7 +26,7 @@ It's made of 7 lessons covering all you need to know about python to complete ou
 Similarly to the aforementioned python course, our course exercises will take the form of "notebooks", notebooks a document format that allows you to run code, write text and generate plots in the same document. They are made of *cells*, which can be *code cells* or *text cells*. In most notebooks, you can execute a cell by pressing *Shift + Enter*.
 
 You have two options for doing the exercises: 
-  * the simplest one is to use Google Colab which lets you do the exercises online so you don't need to do any set-up on your computer. To open the exercises simply click on badge "Open in Colab" of the notebook you want to open it in Colab.
+  * the simplest one is to use Google Colab which lets you do the exercises online so you don't need to do any set-up on your computer. To open the exercises simply click on badge "Open in Colab" of the notebook and you're ready to start coding.
 
   * The second option is to install an editor (the app where you type code) and python in your computer. This option has the advantage of letting you work more easily with your own data and having some nice extra features. If you pick this option, we recommend you get editor Spyder. A simple way of installing both Spyder editor and Python is to install Anaconda: https://www.anaconda.com/products/distribution . Then you can simply download the notebooks folder in this repository and open them in your computer.
 
