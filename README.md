@@ -8,7 +8,9 @@ The **lectures** will follow a hybrid flipped classroom structure: we will give 
 
 The **coding exercises** will be done in groups, the idea is that you work autonomously on them and ask us if you have questions. 
 You're welcome to meet before the exercise class to work through the exercises with your group colleagues or, if you don't have the time to finish them during the session, to finish them afterwards. During the first lecture we will detail the role of the exercises in the exam.
-We will have 4 groups named: Drosophila 🪰, C Elegans 🪱, Giant Squid 🦑 and Rattus norvegicus 🐀. We've tried to have balanced groups regarding coding skills. The groups members can seen in Absalon.
+We will have 4 groups named: Drosophila 🪰, C Elegans 🪱, Giant Squid 🦑 and Rattus norvegicus 🐀. We've tried to have balanced groups regarding coding skills. The groups members can seen in Absalon.  
+
+The **invited talks**: simply relax and enjoy.  
 
 
 
@@ -146,6 +148,13 @@ Here you can find the table of content of each week and its corresponding exerci
  </table> 
 
 
+## The exam
+
+There are two exam options that you can choose:
+
+  + **Option A** : You have 10 min to go through and explain how you solved the exercises from one week (picked at random).
+  + **Option B** : You prepare a 10 min presentation on each of topics covered during the course. The specific topic will be randomly picked during the exam, ie. you need to have prepared a 10min presentation for each of the topics. The list of topics will be given 2 weeks before the exam.
+
 ## Other resources
 
 
@@ -154,4 +163,4 @@ Here you can find the table of content of each week and its corresponding exerci
 <a href="https://brian2.readthedocs.io/en/stable/user/index.html  ">Brian simulator documentation  </a>  
 <a href=" https://www.youtube.com/watch?v=oa6rvUJlg7o   ">An animation of how action of how action potential at a cellular level  </a>   
 <a href=" https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7     ">Python for beginners playlist  </a>    
-<a href="[ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7](https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)     ">Making sense of principal component analysis, eigenvectors & eigenvalues  </a>    
+<a href="https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues">Making sense of principal component analysis, eigenvectors & eigenvalues  </a>    
