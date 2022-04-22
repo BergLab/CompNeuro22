@@ -4,13 +4,13 @@
 
 The course will consists of three types of classes: **Lectures** where you learn some concepts relevant in computational neuroscience, **Coding exercises** where you get to practice what you learn during lecture and **Invited talks** researches will come talk about their current research.
 
-The **lectures** will follow a hybrid flipped classroom structure: we will give you some material —typically a video playlist— that you need to watch before coming to class. These materials are meant for you to refresh some notions of build an intuitions about the concepts, during class we will build on them. The links to the supporting material can be found in the course timeline table below.
+  * The **lectures** will follow a hybrid flipped classroom structure: we will give you some material —typically a video playlist— that you need to watch before coming to class. These materials are meant for you to refresh some notions of build an intuitions about the concepts, during class we will build on them. The links to the supporting material can be found in the course timeline table below.
 
-The **coding exercises** will be done in groups, the idea is that you work autonomously on them and ask us if you have questions. 
+  * The **coding exercises** will be done in groups, the idea is that you work autonomously on them and ask us if you have questions. 
 You're welcome to meet before the exercise class to work through the exercises with your group colleagues or, if you don't have the time to finish them during the session, to finish them afterwards. During the first lecture we will detail the role of the exercises in the exam.
 We will have 4 groups named: Drosophila 🪰, C Elegans 🪱, Giant Squid 🦑 and Rattus norvegicus 🐀. We've tried to have balanced groups regarding coding skills. The groups members can seen in Absalon.  
 
-The **invited talks**: simply relax and enjoy.  
+  * The **invited talks**: simply relax and enjoy.  
 
 
 
