@@ -152,8 +152,8 @@ Here you can find the table of content of each week and its corresponding exerci
 
 There are two exam options that you can choose:
 
-  + **Option A** : You have 10 min to go through and explain how you solved the exercises from one week (picked at random). This is follow by 5 min question session about your presentation and general questions about the course content.
-  + **Option B** : You prepare a 10 min presentation on each of topics covered during the course. The specific topic will be randomly picked during the exam, ie. you need to have prepared a 10min presentation for each of the topics. The list of topics will be given 2 weeks before the exam. This is follow by 5 min question session about your presentation and general questions about the course content.
+  + **Option A** : You have 10 min to go through —and explain— how you solved the exercises from one week (picked at random). This is followed by 5 min question session about your presentation and general questions about the course content.
+  + **Option B** : You prepare a 10 min presentation on each of topics covered during the course. The specific topic will be randomly picked during the exam, ie. you need to have prepared a 10min presentation for each of the topics and we randomly pick one when you arrive at the exam. The list of topics will be given 2 weeks before the exam. This is followed by 5 min question session about your presentation and general questions about the course content.
 
 ## Other resources
 
