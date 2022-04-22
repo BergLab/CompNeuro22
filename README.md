@@ -74,10 +74,14 @@ Here you can find the table of content of each week and its corresponding exerci
     <td class="tg-yw4l">3(21)</td>
     <td class="tg-yw4l">Simulation of neural population</td>
     <td class="tg-yw4l">Simulate populations of biological neurons and visualization resulting data</td>
-    <td class="tg-yw4l">TBA
-    <!-- <a href="https://colab.research.google.com/???????????">
+    <td class="tg-yw4l">
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week3/week3a.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-    </a><br>
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week3/week3b.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week3/week3c.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+    <!-- </a><br>
      <a href="https://github.com/BergLab/CompNeuro22/notebooks/week3/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = ''></a></td> -->
     <td class="tg-yw4l">
     <a href="https://www.youtube.com/playlist?list=PLkBQOLLbi18MCEdPJQ7gdnqP-Z0Tkmcjy">NMA: Biological Neuron Models</a> (skip Q&As)
