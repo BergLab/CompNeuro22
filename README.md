@@ -18,7 +18,7 @@ We will have 4 groups named: Drosophila 🪰, C Elegans 🪱, Giant Squid 🦑 a
 
 ### Preparation
 
-If you have never coded or used python before (or it's been a while), we strongly recommend that you take this introduction course to python: https://www.kaggle.com/learn/python
+If you have never coded or used python before (or it's been a while), we strongly recommend that you take this introduction course to python. It covers all the coding requirements you need for the course: https://www.kaggle.com/learn/python
 
 It's made of 7 lessons covering all you need to know about python to complete our course. Each lesson consist of a **tutorial** and some simple **exercises**. The exercises are hosted online as notebooks so you can do them without installing anything on your computer. 
 
