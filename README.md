@@ -164,3 +164,4 @@ There are two exam options that you can choose:
 <a href="https://www.youtube.com/watch?v=oa6rvUJlg7o">An animation of how action of how action potential at a cellular level  </a>   
 <a href="https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7">Python for beginners playlist  </a>    
 <a href="https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues">Making sense of principal component analysis, eigenvectors & eigenvalues  </a>    
+<a href="https://missing.csail.mit.edu/0"> The Missing Semester of Your CS Education </a>  
