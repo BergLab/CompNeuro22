@@ -157,11 +157,12 @@ There are two exam options that you can choose:
 
 ## Other resources
 
+An unordered list of resources that you might find useful:
 
-<a href="https://cheatsheets.quantecon.org/ ">A summary of how to translate code between Matlab, Python and Julia  </a>  
-<a href="https://youtu.be/QHj9uVmwA_0">Neural manifolds - The Geometry of Behaviour  </a>  
-<a href="https://brian2.readthedocs.io/en/stable/user/index.html  ">Brian simulator documentation  </a>  
-<a href="https://www.youtube.com/watch?v=oa6rvUJlg7o">An animation of how action of how action potential at a cellular level  </a>   
-<a href="https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7">Python for beginners playlist  </a>    
-<a href="https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues">Making sense of principal component analysis, eigenvectors & eigenvalues  </a>    
-<a href="https://missing.csail.mit.edu/0"> The Missing Semester of Your CS Education </a>  
+* <a href="https://cheatsheets.quantecon.org/ ">A summary of how to translate code between Matlab, Python and Julia  </a>  
+* <a href="https://youtu.be/QHj9uVmwA_0">Neural manifolds - The Geometry of Behaviour  </a>  
+* <a href="https://brian2.readthedocs.io/en/stable/user/index.html  ">Brian simulator documentation  </a>  
+* <a href="https://www.youtube.com/watch?v=oa6rvUJlg7o">An animation of how action of how action potential at a cellular level  </a>   
+* <a href="https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7">Python for beginners playlist  </a>    
+* <a href="https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues">Making sense of principal * component analysis, eigenvectors & eigenvalues  </a>    
+* <a href="https://missing.csail.mit.edu/0"> The Missing Semester of Your CS Education </a>  
