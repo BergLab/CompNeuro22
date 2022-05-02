@@ -164,6 +164,7 @@ There are two exam options that you can choose:
 An unordered list of resources that you might find useful:
 
 * <a href="https://cheatsheets.quantecon.org/ ">A summary of how to translate code between Matlab, Python and Julia  </a>  
+* <a href="https://www.tomasbeuzen.com/python-programming-for-data-science/README.html ">Python Programming for Data Science  </a>  
 * <a href="https://youtu.be/QHj9uVmwA_0">Neural manifolds - The Geometry of Behaviour  </a>  
 * <a href="https://brian2.readthedocs.io/en/stable/user/index.html  ">Brian simulator documentation  </a>  
 * <a href="https://www.youtube.com/watch?v=oa6rvUJlg7o">An animation of how action of how action potential at a cellular level  </a>   
