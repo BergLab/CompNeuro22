@@ -55,9 +55,11 @@ Here you can find the table of content of each week and its corresponding exerci
     <td class="tg-yw4l">
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1-IntroColab.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
-    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1a.ipynb">
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1a-Numpy_Introduction.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
-    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1b.ipynb">
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1b-Linear_Systems.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1c-Applications_LT.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
     <td class="tg-yw4l"> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a>  </td>
   </tr>
