@@ -57,7 +57,7 @@ Here you can find the table of content of each week and its corresponding exerci
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1a-Numpy_Introduction.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
-    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1b-Linear_Systems.ipynb">
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1b-Linear_Algebra.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1c-Applications_LT.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
