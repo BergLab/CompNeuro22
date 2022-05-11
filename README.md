@@ -53,8 +53,6 @@ Here you can find the table of content of each week and its corresponding exerci
     <td class="tg-yw4l">Linear algebra and intro python</td>
     <td class="tg-yw4l">Practice basic notions of linear algebra, manipulate numpy arrays, applications of linear systems</td>
     <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1-IntroColab.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1a-Numpy_Introduction.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1b-Linear_Algebra.ipynb">
