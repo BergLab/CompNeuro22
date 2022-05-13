@@ -67,7 +67,7 @@ Here you can find the table of content of each week and its corresponding exerci
     <td class="tg-yw4l">Classical neuronal models</td>
     <td class="tg-yw4l">Modelling systems and solving differential equations: Predator–prey and LIF neurons</td>
     <td class="tg-yw4l">
-    <a href="https://colab.research.google.com/???????????">
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week3/week2a.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
     <td class="tg-yw4l"> <a href="https://www.youtube.com/watch?v=p_di4Zn4wz4">Differential equations, a tourist's guide</a>  </td>
   </tr>
