@@ -65,12 +65,10 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">2(20)</td>
     <td class="tg-yw4l">Classical neuronal models</td>
-    <td class="tg-yw4l">Modelling systems and solving basic differential equations</td>
-    <td class="tg-yw4l">TBA
-    <!-- <a href="https://colab.research.google.com/???????????">
+    <td class="tg-yw4l">Modelling systems and solving differential equations: Predator–prey and LIF neurons</td>
+    <td class="tg-yw4l">
+    <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-    </a><br>
-     <a href="https://github.com/BergLab/CompNeuro22/notebooks/week2.ipynb" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = ''></a></td> -->
     <td class="tg-yw4l"> <a href="https://www.youtube.com/watch?v=p_di4Zn4wz4">Differential equations, a tourist's guide</a>  </td>
   </tr>
 
@@ -162,6 +160,7 @@ There are two exam options that you can choose:
 An unordered list of resources that you might find useful:
 
 * <a href="https://ipython-books.github.io/">IPython Cookbook: a nice book covering scientific computing with python and notebooks </a>  
+* <a href="https://neuronaldynamics.epfl.ch/index.html">Neuronal Dynamics: an online available book covering from neuron models to dynamics cognition.</a>  
 * <a href="https://cheatsheets.quantecon.org/ ">A summary of how to translate code between Matlab, Python and Julia  </a>  
 * <a href="https://www.tomasbeuzen.com/python-programming-for-data-science/README.html ">Python Programming for Data Science  </a>  
 * <a href="https://youtu.be/QHj9uVmwA_0">Neural manifolds - The Geometry of Behaviour  </a>  
