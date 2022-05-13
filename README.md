@@ -75,7 +75,7 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">3(21)</td>
     <td class="tg-yw4l">Simulation of neural population</td>
-    <td class="tg-yw4l">Simulate populations of biological neurons and visualization resulting data</td>
+    <td class="tg-yw4l">Simulate populations of spiking biological neurons with Brian and visualization resulting data</td>
     <td class="tg-yw4l"> 
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week3/week3a.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
@@ -109,7 +109,7 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">5(23)</td>
     <td class="tg-yw4l">Network analysis</td>
-    <td class="tg-yw4l">Using NetworkX (+nxviz/PyGraphviz) library to simulate, study and visualize graphs  </td>
+    <td class="tg-yw4l">Using NetworkX library to simulate, study and visualize graphs  </td>
     <td class="tg-yw4l">TBA
     <!-- <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
