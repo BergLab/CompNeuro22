@@ -59,17 +59,22 @@ Here you can find the table of content of each week and its corresponding exerci
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week1/week1c-Applications_LT.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >  
-    <td class="tg-yw4l"> <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a>  </td>
+    <td class="tg-yw4l"> 
+    - <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of linear algebra</a>  </td>
   </tr>
 
   <tr>
     <td class="tg-yw4l">2(20)</td>
-    <td class="tg-yw4l">Classical neuronal models</td>
+    <td class="tg-yw4l">Differential equations and neuron models</td>
     <td class="tg-yw4l">Modelling systems and solving differential equations: Predator–prey and LIF neurons</td>
     <td class="tg-yw4l">
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week2/week2a.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-    <td class="tg-yw4l"> <a href="https://www.youtube.com/watch?v=p_di4Zn4wz4">Differential equations, a tourist's guide</a>  </td>
+    <td class="tg-yw4l"> 
+    - <a href="https://www.youtube.com/watch?v=p_di4Zn4wz4">Differential equations, a tourist's guide</a>
+    <br>
+    - <a href="https://youtu.be/ovJcsL7vyrk">Logistic map equation</a>
+    </td>
   </tr>
 
   <tr>
@@ -86,9 +91,9 @@ Here you can find the table of content of each week and its corresponding exerci
     <!-- </a><br>
      <a href="https://github.com/BergLab/CompNeuro22/notebooks/week3/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = ''></a></td> -->
     <td class="tg-yw4l">
-    <a href="https://www.youtube.com/playlist?list=PLkBQOLLbi18MCEdPJQ7gdnqP-Z0Tkmcjy">NMA: Biological Neuron Models</a> (skip Q&As)
+    - <a href="https://www.youtube.com/playlist?list=PLkBQOLLbi18MCEdPJQ7gdnqP-Z0Tkmcjy">NMA: Biological Neuron Models</a> (skip Q&As)
     </a><br>
-    Chapters from Sterratt: 2.1, 2.2, 7.1, 7.2, 8.2    
+    - Chapters from Sterratt: 2.1, 2.2, 7.1, 7.2, 8.2    
     </td>
   </tr>
 
@@ -103,7 +108,7 @@ Here you can find the table of content of each week and its corresponding exerci
     </a><br>
      <a href="https://github.com/BergLab/CompNeuro22/notebooks/week3/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = ''></a></td> -->
     <td class="tg-yw4l">
-    <a href="https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Artificial Neural Networks</a> (videos 1 and 2)
+    - <a href="https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Artificial Neural Networks</a> (videos 1 and 2)
   </tr>
 
   <tr>
