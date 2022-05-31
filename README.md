@@ -102,7 +102,9 @@ Here you can find the table of content of each week and its corresponding exerci
     <td class="tg-yw4l">4(22)</td>
     <td class="tg-yw4l">Machine learning and data analysis</td>
     <td class="tg-yw4l">Data analysis w/ Pandas + ML w/ scikit-learn to solve supervised learning problem + Dimensionality reduction (PCA)</td>
-    <td class="tg-yw4l">TBA
+    <td class="tg-yw4l">
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week4/week4a.ipynb">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
     <!-- <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
     </a><br>
