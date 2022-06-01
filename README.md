@@ -105,10 +105,8 @@ Here you can find the table of content of each week and its corresponding exerci
     <td class="tg-yw4l">
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week4/week4a.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-    <!-- <a href="https://colab.research.google.com/???????????">
+    <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week4/week4b.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
-    </a><br>
-     <a href="https://github.com/BergLab/CompNeuro22/notebooks/week3/" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height = ''></a></td> -->
     <td class="tg-yw4l">
     - <a href="https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Artificial Neural Networks</a> (videos 1 and 2)
   </tr>
