@@ -101,7 +101,7 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">4(22)</td>
     <td class="tg-yw4l">Machine learning and data analysis</td>
-    <td class="tg-yw4l">Data analysis w/ Pandas + ML w/ scikit-learn to solve supervised learning problem + Dimensionality reduction (PCA)</td>
+    <td class="tg-yw4l">Data analysis w/ Pandas + ML w/ scikit-learn to solve supervised learning problem</td>
     <td class="tg-yw4l">
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week4/week4a.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
@@ -114,7 +114,7 @@ Here you can find the table of content of each week and its corresponding exerci
   <tr>
     <td class="tg-yw4l">5(23)</td>
     <td class="tg-yw4l">Network analysis</td>
-    <td class="tg-yw4l">Using NetworkX library to simulate, study and visualize graphs  </td>
+    <td class="tg-yw4l">Using NetworkX library to simulate, study and visualize graphs</td>
     <td class="tg-yw4l">TBA
     <!-- <a href="https://colab.research.google.com/???????????">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
@@ -155,10 +155,10 @@ Here you can find the table of content of each week and its corresponding exerci
 
 ## The exam
 
-There are two exam options that you can choose:
+You need to prepare a 10 min presentation on each of topics covered during the course followed by 5 min questions about your presentation, and general questions about the rest of the course content. The specific topic will be randomly picked during the exam. You can choose to use —or not— the week's notebook as support for you presentation (we will provide the notebooks on a projector).
 
-  + **Option A** : You have 10 min to go through —and explain— how you solved the exercises from one week (picked at random). This is followed by 5 min question session about your presentation and general questions about the course content.
-  + **Option B** : You prepare a 10 min presentation on each of topics covered during the course. The specific topic will be randomly picked during the exam, ie. you need to have prepared a 10min presentation for each of the topics and we randomly pick one when you arrive at the exam. The list of topics will be given 2 weeks before the exam. This is followed by 5 min question session about your presentation and general questions about the course content.
+The specific topics will be announce soon. They will correspond to each of the topics covered on every week (excluding the linear algebra week).
+
 
 ## Other resources
 
