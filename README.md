@@ -100,7 +100,7 @@ Here you can find the table of content of each week and its corresponding exerci
 
   <tr>
     <td class="tg-yw4l">4(22)</td>
-    <td class="tg-yw4l">Machine learning and data analysis</td>
+    <td class="tg-yw4l">Data analysis and Machine learning</td>
     <td class="tg-yw4l">Data analysis w/ Pandas + ML w/ scikit-learn to solve supervised learning problem</td>
     <td class="tg-yw4l">
     <a href="https://colab.research.google.com/github/BergLab/CompNeuro22/blob/main/notebooks/week4/week4a.ipynb">
@@ -166,12 +166,12 @@ An unordered list of resources that you might find useful:
 
 * <a href="https://ipython-books.github.io/">IPython Cookbook: a nice book covering scientific computing with python and notebooks </a>  
 * <a href="https://neuronaldynamics.epfl.ch/index.html">Neuronal Dynamics: an online available book covering from neuron models to dynamics cognition.</a>  
-* <a href="[https://cheatsheets.quantecon.org/ ](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)">Scikit-learn guide to choosing a model </a>  
+* <a href="https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html">Scikit-learn guide to choosing a model </a>  
 * <a href="https://cheatsheets.quantecon.org/ ">A summary of how to translate code between Matlab, Python and Julia  </a>  
 * <a href="https://www.tomasbeuzen.com/python-programming-for-data-science/README.html ">Python Programming for Data Science  </a>  
 * <a href="https://youtu.be/QHj9uVmwA_0">Neural manifolds - The Geometry of Behaviour  </a>  
 * <a href="https://brian2.readthedocs.io/en/stable/user/index.html  ">Brian simulator documentation  </a>  
 * <a href="https://www.youtube.com/watch?v=oa6rvUJlg7o">An animation of how action potentials work at a cellular level  </a>   
 * <a href="https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7">Python for beginners playlist  </a>    
-* <a href="https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues">Making sense of principal * component analysis, eigenvectors & eigenvalues  </a>    
+* <a href="https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues">Making sense of principal component analysis, eigenvectors & eigenvalues  </a>    
 * <a href="https://missing.csail.mit.edu/0"> The Missing Semester of Your CS Education </a>  
