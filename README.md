@@ -153,10 +153,21 @@ Here you can find the table of content of each week and its corresponding exerci
 
 ## The exam
 
-You need to prepare a 10 min presentation on each of topics covered during the course followed by 5 min questions about your presentation, and general questions about the rest of the course content. The specific topic will be randomly picked during the exam. You can choose to use —or not— the week's notebook as support for you presentation (we will provide the notebooks on a projector).
+The exam is an oral exam. You need to prepare an approximately 10 min presentation on each of the topics covered during the course followed by 5 min questions about your presentation, and general questions about the rest of the course content. The specific topic will be randomly picked during the exam. You can choose to use —or not— the week's notebook as support for your presentation (we will provide the notebooks on a projector). After this, the student leaves the room and the censor and examiner find the appropriate grade, which is delivered to the student waiting outside. The grade is a pass/non-pass grade. 
 
-The specific topics will be announce soon. They will correspond to each of the topics covered on every week (excluding the linear algebra week).
 
+**The four topics for the exam are the following:**
+
+  1. Philosophical aspects of computational neuroscience (Chapter 1.1.1-1.1.5 and introduction lectures). E.g. levels of description. Pros and cons of levels of details in a model. Variables and parameters. (No colab notebook support for this.)
+
+
+  2. Dynamical systems and differential equations (B.2 - B.2.1 and notebook week 2): In general, terms describe the method of analysis of two coupled dynamical systems, e.g. predator-prey.
+
+  3. One-compartment neuronal models and the integrate-and-fire neuron (sect. 8.2.0 - 8.2.1 and notebooks week 2-3). Explain the different parameters used to run the simulation in the notebook. 
+
+  4. Data analysis and machine learning (Lecture and notebooks week 4): explain linear and nonlinear correlations, how they can be described with correlation coefficients. Supervised machine learning. Difference between regression and classification tasks. Define what an artificial neural network is.
+
+  5. Network science (Lectures and section 9.1.3):  What are a network, random network, and a Small-world network? Why are network useful models for neuroscience? Network measures: mean path length and clustering coefficient. What is the degree of a node and the degree distribution of a network.
 
 ## Other resources
 
