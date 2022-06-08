@@ -167,7 +167,7 @@ The exam is an oral exam. You need to prepare an approximately 10 min presentati
 
   4. Data analysis and machine learning (Lecture and notebooks week 4): explain linear and nonlinear correlations, how they can be described with correlation coefficients. Supervised machine learning. Difference between regression and classification tasks. Define what an artificial neural network is.
 
-  5. Network science (Lectures and section 9.1.3):  What are a network, random network, and a Small-world network? Why are network useful models for neuroscience? Network measures: mean path length and clustering coefficient. What is the degree of a node and the degree distribution of a network.
+  5. Network science (Lectures, notebook section and sect. 9.1.3):  What are a network, random network, and a Small-world network? Why are network useful models for neuroscience? Network measures: mean path length and clustering coefficient. What is the degree of a node and the degree distribution of a network.
 
 ## Other resources
 
