@@ -156,7 +156,7 @@ Here you can find the table of content of each week and its corresponding exerci
 The exam is an oral exam. You need to prepare an approximately 10 min presentation on each of the topics covered during the course followed by 5 min questions about your presentation, and general questions about the rest of the course content. The specific topic will be randomly picked during the exam. You can choose to use —or not— the week's notebook as support for your presentation (we will provide the notebooks on a projector). After this, the student leaves the room and the censor and examiner find the appropriate grade, which is delivered to the student waiting outside. The grade is a pass/non-pass grade. 
 
 
-**The four topics for the exam are the following:**
+**The five topics for the exam are the following:**
 
   1. Philosophical aspects of computational neuroscience (Chapter 1.1.1-1.1.5 and introduction lectures). E.g. levels of description. Pros and cons of levels of details in a model. Variables and parameters. (No colab notebook support for this.)
 
